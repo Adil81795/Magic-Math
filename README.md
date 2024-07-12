@@ -1,6 +1,6 @@
-# MAgic Math
+# Magic Math
 
-_MAgic Math_ is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+_Magic Math_ is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
 - Make simple calculations.
 - Read a random math-related quote.
@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo Link
 
-[MAgic Math!]()
+[Magic Math!]()
 
 ## Getting Started
 

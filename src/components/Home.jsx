@@ -42,7 +42,7 @@ const Home = () => (
           <FaGithub />
         </ExternalLink>
 
-        <ExternalLink href="https://">
+        <ExternalLink href="https://magicmathadil.netlify.app/">
           View Live
           <RiShareBoxFill />
         </ExternalLink>
