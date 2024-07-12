@@ -59,8 +59,5 @@ In the project directory, you can run:
 - `npm run eject` - _To remove the single build dependency from your project. **Note this is a one-way operation. Once you eject, you can't go back!**_
 
 ## Authors
-
-👤 **Author**
-
 - GitHub: [@KanzaTahreem](https://github.com/Adil81795)
 - LinkedIn: [Kanza Tahreem](https://www.linkedin.com/in/adilzafar2001/)
