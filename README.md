@@ -62,5 +62,5 @@ In the project directory, you can run:
 
 👤 **Author**
 
-- GitHub: [@KAdil Zafar](https://github.com/Adil81795)
+- GitHub: [@Adil Zafar](https://github.com/Adil81795)
 - LinkedIn: [Adil Zafar](https://www.linkedin.com/in/adilzafar2001/)
