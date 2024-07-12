@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo Link
 
-[Magic Math!]()
+[Magic Math!](https://magicmathadil.netlify.app/)
 
 ## Getting Started
 
